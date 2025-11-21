@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ranjvee
 - 👀 I’m interested in growing myself technically
-- 🌱 I’m currently learning Robot framework with Python
-- 💞️ I’m looking to collaborate on anything that sounds interesting
+- 🌱 I’m currently learning Javascript
+- 💞️ I’m looking to collaborate on AI,building automation workflows
 - 📫 How to reach me ...
 
 <!---
